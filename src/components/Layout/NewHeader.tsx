@@ -8,7 +8,7 @@ const NewHeader = () => {
     } = theme.useToken();
     return(
         <Header style={{ padding: 0, background: colorBgContainer }} />
-);
+    );
 };
 
 export default NewHeader;
